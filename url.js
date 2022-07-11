@@ -8,7 +8,13 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232'
+	'https://form.jotform.com/221790158024452',
+	'https://form.jotform.com/221911295865462',
+	'https://form.jotform.com/221911405284450',
+	'https://form.jotform.com/221910900596455',
+	'https://form.jotform.com/221910769659468',
+	'https://form.jotform.com/221910938978470',
+	'https://form.jotform.com/221911516278456',
+	'https://form.jotform.com/221911556139456',
+	'https://form.jotform.com/221910759628463'
 ];
