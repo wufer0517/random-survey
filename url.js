@@ -9,8 +9,8 @@
 
 const urls = [
 	'https://form.jotform.com/221790158024452',
-	'https://form.jotform.com/221911295865462',
-	'https://form.jotform.com/221911405284450',
+	'https://form.jotform.com/221951311466452',
+	'https://form.jotform.com/221951124622448',
 	'https://form.jotform.com/221910900596455',
 	'https://form.jotform.com/221910769659468',
 	'https://form.jotform.com/221910938978470',
