@@ -11,10 +11,10 @@ const urls = [
 	'https://form.jotform.com/221790158024452',
 	'https://form.jotform.com/221951311466452',
 	'https://form.jotform.com/221951124622448',
-	'https://form.jotform.com/221910900596455',
-	'https://form.jotform.com/221910769659468',
-	'https://form.jotform.com/221910938978470',
-	'https://form.jotform.com/221911516278456',
+	'https://form.jotform.com/221951175790460',
+	'https://form.jotform.com/221951380429457',
+	'https://form.jotform.com/221952088995471',
+	'https://form.jotform.com/221952034181449',
 	'https://form.jotform.com/221911556139456',
 	'https://form.jotform.com/221910759628463'
 ];
